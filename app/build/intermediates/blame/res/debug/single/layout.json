@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    }
+]

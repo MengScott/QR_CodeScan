@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\project\QR_CodeScan\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\QR_CodeScan\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\project\QR_CodeScan\app\build\intermediates\pre-dexed\debug\zxing_1cb9e557b9a9395299794de9eac6561001562dd0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,352 @@
+[
+    {
+        "outputFile": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 51,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 58,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 39,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 35,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 42,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 45,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 42,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 45,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 37,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 49,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 33,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 44,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 47,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 56,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 59,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 45,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 36,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 43,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 39,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 52,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 50,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 38,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1169,
+                    "endColumn": 45,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 54,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

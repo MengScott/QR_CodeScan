@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\project\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\project\\QR_CodeScan\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]
